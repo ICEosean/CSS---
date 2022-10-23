@@ -1,0 +1,23 @@
+.box {
+    margin: 100px 30%;
+}
+
+.top {
+    padding-left: 32px;
+    font-size: 18px;
+    background-image: url(../images/sprites.png);
+    background-repeat: no-repeat;
+    background-position: -2px -186px;
+}
+
+.bottom {
+    width: 572px;
+    height: 106px;
+    padding-left: 247px;
+    line-height: 106px;
+    font-size: 18px;
+    background-image: url(../images/sprites.png);
+    background-repeat: no-repeat;
+    background-position: -1px -350px;
+    border: 1px solid #000;
+}
